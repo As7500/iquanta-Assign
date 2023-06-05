@@ -1,0 +1,553 @@
+.hero-child {
+    position: absolute;
+    top: 97.51px;
+    left: 108.51px;
+    border-top: 1px solid var(--color-gray-200);
+    box-sizing: border-box;
+    width: 1171.98px;
+    height: 0.98px;
+  }
+  .hero-item {
+    position: absolute;
+    top: 98px;
+    left: 700px;
+    width: 580px;
+    height: 913px;
+    object-fit: cover;
+  }
+
+  .span2 {
+    color: var(--color-red-200);
+  }
+  .gafarillo4 {
+    position: absolute;
+    top: 33px;
+    left: 109px;
+    font-size: 37.47px;
+    font-weight: 600;
+  }
+  .i-am2 {
+    color: var(--color-black);
+  }
+  .gafarillo5,
+  .hi-i-am-container2 {
+    position: absolute;
+    top: 149px;
+    left: 109px;
+    font-size: var(--font-size-42xl-1);
+    color: var(--color-mediumslateblue);
+  }
+  .gafarillo5 {
+    top: 221px;
+  }
+  .home4 {
+    position: absolute;
+    top: 47px;
+    left: 490px;
+    font-weight: 500;
+  }
+  .uiux-designer-with2 {
+    margin: 0;
+  }
+  .uiux-designer-with-container2 {
+    position: absolute;
+    top: 343.93px;
+    left: 109px;
+    font-size: var(--font-size-mid-6);
+    font-weight: 500;
+  }
+  .instagram2,
+  .services2,
+  .youtube2 {
+    position: absolute;
+    top: 46.88px;
+    left: 581px;
+    font-weight: 500;
+    color: var(--color-gray-100);
+  }
+  .services2,
+  .youtube2 {
+    top: 45px;
+    left: 715px;
+  }
+  .services2 {
+    left: 833px;
+  }
+  .download-cv2 {
+    position: absolute;
+    top: 50px;
+    left: 1086px;
+    font-size: var(--font-size-mini);
+    font-weight: 600;
+  }
+  .hero-inner {
+    position: absolute;
+    top: 43px;
+    left: 1062px;
+    background-color: var(--color-gainsboro);
+    border: 1px solid var(--color-darkslategray);
+    box-sizing: border-box;
+    width: 150px;
+    height: 36px;
+  }
+  .hero-child1 {
+    position: absolute;
+    top: 179px;
+    left: 387px;
+    border-radius: var(--br-xl);
+    background-color: var(--color-mediumslateblue);
+    width: 118px;
+    height: 37px;
+  }
+  .uiux2 {
+    position: absolute;
+    top: 183px;
+    left: 418px;
+    font-size: 19.66px;
+    font-weight: 600;
+    color: var(--color-white);
+  }
+  .hero-child2 {
+    position: absolute;
+    top: 430px;
+    left: 97px;
+    background: linear-gradient(90deg, #ff6363, rgba(255, 60, 60, 0.93));
+    width: 174.49px;
+    height: 55.17px;
+  }
+  .email-me3,
+  .hire-me2 {
+    position: absolute;
+    font-weight: 500;
+  }
+  .hire-me2 {
+    top: 445px;
+    left: 153px;
+    font-size: 16.51px;
+    color: var(--color-white);
+  }
+  .email-me3 {
+    top: 443px;
+    left: 302.21px;
+    font-size: 20.19px;
+    cursor: pointer;
+  }
+  .b3,
+  .los-angeles3,
+  .years3 {
+    position: absolute;
+    top: 532.24px;
+    left: 97px;
+    font-size: 22.56px;
+  }
+  .b3,
+  .los-angeles3 {
+    top: 627px;
+  }
+  .los-angeles3 {
+    left: 295px;
+  }
+  .experience2,
+  .living-place3,
+  .projects2 {
+    position: absolute;
+    top: 569.7px;
+    left: 97px;
+    font-size: 17.66px;
+    font-weight: 600;
+    color: var(--color-dimgray-100);
+  }
+  .living-place3,
+  .projects2 {
+    top: 664.45px;
+  }
+  .living-place3 {
+    left: 295px;
+  }
+  .hero-child3 {
+    position: absolute;
+    top: 743px;
+    left: 0;
+    background-color: var(--color-black);
+    width: 700px;
+    height: 268px;
+  }
+  .projects-case-studies2 {
+    position: absolute;
+    top: 789px;
+    left: 97px;
+    font-size: 22.56px;
+    font-weight: 600;
+    color: var(--color-white);
+    display: inline-block;
+    width: 164px;
+  }
+  .sneakers-store2 {
+    position: absolute;
+    top: 174.06px;
+    left: 2.45px;
+    font-weight: 500;
+  }
+  .group-child7 {
+    position: absolute;
+    top: 197.81px;
+    left: -0.61px;
+    border-top: 1.2px solid var(--color-darkgray);
+    box-sizing: border-box;
+    width: 224.23px;
+    height: 1.23px;
+  }
+  .group-icon8 {
+    position: absolute;
+    height: 4.05%;
+    width: 4.62%;
+    top: 0;
+    right: 6.91%;
+    bottom: 95.95%;
+    left: 88.46%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .sneakers-store-container {
+    position: absolute;
+    top: 631.94px;
+    left: 367px;
+    width: 223px;
+    height: 198.42px;
+    font-size: 15.61px;
+    color: var(--color-white);
+  }
+  .flames-fitness2 {
+    position: absolute;
+    top: 186.41px;
+    left: 2.45px;
+    font-weight: 500;
+  }
+  .group-child8 {
+    position: absolute;
+    top: 209.58px;
+    left: -0.61px;
+    border-top: 1.2px solid var(--color-darkgray);
+    box-sizing: border-box;
+    width: 224.23px;
+    height: 1.23px;
+  }
+  .group-icon9 {
+    position: absolute;
+    height: 3.83%;
+    width: 4.62%;
+    top: 0;
+    right: 6.91%;
+    bottom: 96.17%;
+    left: 88.46%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .flames-fitness-container {
+    position: absolute;
+    top: 672.96px;
+    left: 367px;
+    width: 223px;
+    height: 210.19px;
+    font-size: 15.61px;
+    color: var(--color-white);
+  }
+  .thenx-store2 {
+    position: absolute;
+    top: 197.98px;
+    left: 2.45px;
+    font-weight: 500;
+  }
+  .group-child9 {
+    position: absolute;
+    top: 221.4px;
+    left: -0.61px;
+    border-top: 1.2px solid var(--color-darkgray);
+    box-sizing: border-box;
+    width: 224.23px;
+    height: 1.23px;
+  }
+  .group-icon10 {
+    position: absolute;
+    height: 3.62%;
+    width: 4.62%;
+    top: 0;
+    right: 6.91%;
+    bottom: 96.38%;
+    left: 88.46%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .thenx-store-container {
+    position: absolute;
+    top: 714.17px;
+    left: 367px;
+    width: 223px;
+    height: 222.01px;
+    font-size: 15.61px;
+    color: var(--color-white);
+  }
+  .hero-child4 {
+    position: absolute;
+    top: 883px;
+    left: 99px;
+    background-color: var(--color-red-100);
+    width: 162px;
+    height: 47px;
+  }
+  .view-behance2 {
+    position: absolute;
+    top: 896px;
+    left: 135px;
+    font-size: var(--font-size-smi-6);
+    font-weight: 500;
+    color: var(--color-white);
+  }
+  .hero {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 1011px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-lg-9);
+    color: var(--color-black);
+    font-family: var(--font-poppins);
+  }
+  
+/* 
+  .image-hover-text {
+    position: absolute;
+    top: 140px; 
+    left: 700px; 
+    font-size: 20px;
+    color: var(--color-black);
+    font-weight: bold;
+  } */
+  .email{
+    text-decoration: none;
+  }
+
+
+  .ellipse-div,
+  .home2-child5 {
+    position: absolute;
+    border-radius: 50%;
+  }
+  .ellipse-div {
+    top: 147px;
+    left: 712px;
+    background: linear-gradient(133.6deg, #4361ff, rgba(114, 64, 255, 0.5));
+    width: 144px;
+    height: 144px;
+  }
+
+  .home2-child5 {
+    top: 200px;
+    left: 841px;
+    background: linear-gradient(133.6deg, #4361ff, rgba(114, 64, 255, 0));
+    width: 87px;
+    height: 87px;
+  }
+  .bring-real-life-container {
+    position: absolute;
+    top: 178px;
+    left: 743px;
+    display: inline-block;
+    width: 501px;
+    font-size: 29.26px;
+    color: #fff;
+  }
+  .design {
+    font-size: 35px;
+    color: #0038ff;
+  }
+
+  .years1 {
+    position: absolute;
+    top: 463px;
+    left: 751.16px;
+    color: #fff;
+  }
+  .b1,
+  .harvard,
+  .los-angeles1,
+  .photography {
+    position: absolute;
+    top: 569.01px;
+    left: 751.16px;
+    color: #fff;
+  }
+  .b1,
+  .los-angeles1,
+  .photography {
+    top: 681px;
+  }
+  .b1,
+  .photography {
+    top: 569.01px;
+    left: 972.67px;
+    
+  }
+  .b1 {
+    top: 681px;
+  }
+  .age,
+  .gpa,
+  .hobby,
+  .living-place1,
+  .university {
+    position: absolute;
+    top: 504.9px;
+    left: 751.16px;
+    font-size: 19.75px;
+    font-weight: 600;
+    color: #fff;
+  }
+  .gpa,
+  .hobby,
+  .living-place1,
+  .university {
+    top: 610.91px;
+  }
+  .gpa,
+  .hobby,
+  .living-place1 {
+    top: 722.9px;
+  }
+  .gpa,
+  .hobby {
+    top: 610.91px;
+    left: 972.67px;
+  }
+  .gpa {
+    top: 722.9px;
+  }
+
+  .rectangle-parent {
+    position: absolute;
+    top: 262px;
+    left: 363px;
+    width: 554.19px;
+    height: 398.76px;
+    text-align: center;
+    font-size: 12.89px;
+    
+  }
+  .group-child3,
+  .group-child4 {
+    position: absolute;
+    border-radius: var(--br-21xl);
+    width: 524px;
+    height: 352px;
+  }
+  .group-child3 {
+    top: 23.38px;
+    left: 17.09px;
+    background-color: transparent;
+    border: 2px solid var(--color-white);
+    box-sizing: border-box;
+  }
+  .group-child4 {
+    top: 48.26px;
+    left: 0;
+    background-color: var(--color-white);
+    transform: rotate(-5.28deg);
+    transform-origin: 0 0;
+  }
+  .email-me2 {
+    position: absolute;
+    top: 136px;
+    left: 224px;
+    font-size: 21.58px;
+    font-weight: 600;
+    text-align: left;
+  }
+  .im-glad-that {
+    margin: 0;
+  }
+  .im-glad-that-container {
+    position: absolute;
+    top: 183.67px;
+    left: 120.74px;
+    font-weight: 500;
+    color: #707070;
+    display: inline-block;
+    width: 312px;
+  }
+  .group-child5 {
+    position: absolute;
+    top: 275px;
+    left: 154.74px;
+    border-radius: 15px;
+    background-color: var(--color-black);
+    width: 101px;
+    height: 45px;
+  }
+  .cancel,
+  .contact-me {
+    position: absolute;
+    font-weight: 500;
+  }
+  .contact-me {
+    top: 288px;
+    left: 165.74px;
+    color: var(--color-white);
+    cursor: pointer;
+  }
+
+  .cancel {
+    top: 286px;
+    left: 323.74px;
+    font-size: 14.34px;
+    cursor: pointer;
+  }
+
+   
+  .group-child6,
+  .group-icon6,
+  .group-icon7 {
+    position: absolute;
+    height: 10.63%;
+    width: 7.94%;
+    top: 18.06%;
+    right: 64.14%;
+    bottom: 71.31%;
+    left: 27.92%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .group-icon6,
+  .group-icon7 {
+    height: 11.41%;
+    width: 7.22%;
+    top: 17.05%;
+    right: 46.45%;
+    bottom: 71.53%;
+    left: 46.33%;
+  }
+  .group-icon7 {
+    height: 10.31%;
+    width: 7.4%;
+    top: 18.61%;
+    right: 28.91%;
+    bottom: 71.08%;
+    left: 63.69%;
+  }
+  .iconsaxlineartagcross {
+    position: absolute;
+    top: 32px;
+    left: 475px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+    cursor: pointer;
+  }
+
+  .hero.popup-open {
+    background-color: var(--color-gray-300);
+  }

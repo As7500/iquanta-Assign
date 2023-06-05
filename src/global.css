@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+
+  /* font sizes */
+  --font-size-lgi-8: 19.8px;
+  --font-size-6xl-2: 25.2px;
+  --font-size-10xl-3: 29.3px;
+  --font-size-smi-6: 12.6px;
+  --font-size-base-6: 15.6px;
+  --font-size-3xl-6: 22.6px;
+  --font-size-mid-7: 17.7px;
+  --font-size-xl-2: 20.2px;
+  --font-size-base-5: 16.5px;
+  --font-size-lgi-7: 19.7px;
+  --font-size-mini: 15px;
+  --font-size-lg-9: 18.9px;
+  --font-size-mid-6: 17.6px;
+  --font-size-42xl-1: 61.1px;
+  --font-size-18xl-5: 37.5px;
+  --font-size-smi-9: 12.9px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-red-100: #ff2f2f;
+  --color-red-200: #ff0000;
+  --color-darkgray: #9b9b9b;
+  --color-gray-100: #858585;
+  --color-gray-200: #7c7c7c;
+  --color-gray-300: rgba(0, 0, 0, 0.4);
+  --color-black: #000;
+  --color-dimgray-100: #686868;
+  --color-mediumslateblue: #0057ff;
+  --color-gainsboro: rgba(217, 217, 217, 0);
+  --color-darkslategray: #454444;
+
+  /* border radiuses */
+  --br-xl: 20px;
+  --br-21xl: 40px;
+}
